@@ -9,4 +9,9 @@ A quine is a fixed point of an execution environment, when the execution environ
 
 # A self-replicating python script
 ##     The _Elegant_ Quine
-### **s='s=%r;print(s%%s)';print(s%s)**
+### 
+
+
+<div class="border border-black-fade bg-blue-light p-2 mb-2">
+  **s='s=%r;print(s%%s)';print(s%s)**
+</div>
