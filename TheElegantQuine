@@ -1,7 +1,7 @@
 
-### The Elegant Quine
-### Self Replicating Python Code
-### Keep in mind to truly be a quine, it cannot be executed outside a python shell, otherwise the input is not outputting a copy
 
+class="s='s=%r;print(s%%s)';print(s%s)">.text-purple on white
 
-						s='s=%r;print(s%%s)';print(s%s)
+<div class="text-blue mb-2">
+  s='s=%r;print(s%%s)';print(s%s)
+</div>
