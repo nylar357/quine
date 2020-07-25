@@ -1,5 +1,4 @@
-<div class="text-blue mb-2"> s='s=%r;print(s%%s)';print(s%s)
+The _Elegant_ Quine
 
-<div class="border border-blue mb-2">
-  .border-blue
-</div>
+**s='s=%r;print(s%%s)';print(s%s)**
+
