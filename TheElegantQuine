@@ -1,2 +1,5 @@
-<div class="text-blue mb-2">
-  s='s=%r;print(s%%s)';print(s%s)
+<div class="text-blue mb-2"> s='s=%r;print(s%%s)';print(s%s)
+
+<div class="border border-blue mb-2">
+  .border-blue
+</div>
