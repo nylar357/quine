@@ -1,7 +1,2 @@
-
-
-class="s='s=%r;print(s%%s)';print(s%s)">.text-purple on white
-
 <div class="text-blue mb-2">
   s='s=%r;print(s%%s)';print(s%s)
-</div>
