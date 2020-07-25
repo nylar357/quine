@@ -6,6 +6,9 @@ A quine is a computer program which takes no input and produces a copy of its ow
 
 A quine is a fixed point of an execution environment, when the execution environment is viewed as a function transforming programs into their outputs. Quines are possible in any Turing complete programming language, as a direct consequence of Kleene's recursion theorem. For amusement, programmers sometimes attempt to develop the shortest possible quine in any given programming language. 
 
+
+# ***The Elegant Quine***
+## **s='s=%r;print(s%%s)';print(s%s)**
 ![preview](QUINE.png)
 
 
