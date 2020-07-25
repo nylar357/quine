@@ -8,3 +8,4 @@ A quine is a fixed point of an execution environment, when the execution environ
 
 <div class="text-purple"> 
    s='s=%r;print(s%%s)';print(s%s)
+   </div>
